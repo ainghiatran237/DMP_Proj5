@@ -1,0 +1,241 @@
+id,name,host_name,neighbourhood_group,neighbourhood,room_type,price,number_of_reviews,reviews_per_month,review_rate_number,minimum_nights,availability_365,last_review,service_fee,instant_bookable,cancellation_policy,construction_year,calculated_host_listings_count,occupancy_rate,eda_source,name_encoded,host_name_encoded,neighbourhood_group_encoded,neighbourhood_encoded,room_type_encoded,last_review_encoded,instant_bookable_encoded,cancellation_policy_encoded,eda_source_encoded
+1,Midtown stay 1,Host 79,Manhattan,Midtown,Private room,160.76,53,3.38,3,5,136,2025-02-17,27.07,FALSE,flexible,2004,7,62.67,generated_fallback,122,65,2,9,2,739299,0,0,0
+2,Bushwick stay 2,Host 79,Brooklyn,Bushwick,Private room,203.14,56,1.35,4,5,130,2025-01-04,35.2,TRUE,moderate,2005,8,64.31,generated_fallback,21,65,1,1,2,739255,1,1,0
+3,DUMBO stay 3,Host 21,Brooklyn,DUMBO,Entire home/apt,114.51,70,1.64,4,5,114,2025-11-06,22.37,FALSE,strict,2006,3,68.77,generated_fallback,47,10,1,3,0,739561,0,2,0
+4,Astoria stay 4,Host 80,Queens,Astoria,Private room,361.39,65,1.99,4,6,148,2025-10-23,63.22,TRUE,unknown,2007,6,59.45,generated_fallback,10,66,3,0,2,739547,1,3,0
+5,Williamsburg stay 5,Host 39,Brooklyn,Williamsburg,Entire home/apt,236.94,52,3.12,4,2,119,2025-11-22,37.91,FALSE,flexible,2008,6,67.41,generated_fallback,238,26,1,16,0,739577,0,0,0
+6,Astoria stay 6,Host 92,Queens,Astoria,Entire home/apt,173.79,50,3.81,5,5,125,2026-01-09,29.16,TRUE,moderate,2009,3,65.89,generated_fallback,13,77,3,0,0,739625,1,1,0
+7,Bushwick stay 7,Host 38,Brooklyn,Bushwick,Entire home/apt,217.05,79,1.55,3,1,121,2025-04-28,37.43,FALSE,strict,2010,6,66.81,generated_fallback,28,25,1,1,0,739369,0,2,0
+8,Harlem stay 8,Host 50,Manhattan,Harlem,Entire home/apt,72.81,74,2.7,5,6,117,2025-08-23,15.7,TRUE,unknown,2011,5,67.95,generated_fallback,104,37,2,7,0,739486,1,3,0
+9,Park Slope stay 9,Host 64,Brooklyn,Park Slope,Entire home/apt,131.33,25,3.29,3,2,119,2025-03-12,26.41,FALSE,flexible,2012,4,67.5,generated_fallback,155,51,1,11,0,739322,0,0,0
+10,Great Kills stay 10,Host 97,Staten Island,Great Kills,Entire home/apt,384.08,74,2.05,4,4,146,2025-11-02,61.45,TRUE,moderate,2013,3,59.99,generated_fallback,79,82,4,6,0,739557,1,1,0
+11,Fordham stay 11,Host 24,Bronx,Fordham,Entire home/apt,117.3,80,1.83,4,1,140,2025-11-25,20.12,FALSE,strict,2014,5,61.51,generated_fallback,62,13,0,5,0,739580,0,2,0
+12,Astoria stay 12,Host 43,Queens,Astoria,Entire home/apt,128.17,83,4.23,5,3,128,2025-02-24,23.21,TRUE,unknown,2015,3,64.9,generated_fallback,1,30,3,0,0,739306,1,3,0
+13,Long Island City stay 13,Host 77,Queens,Long Island City,Private room,278.23,40,3.7,4,2,152,2025-01-10,48.57,FALSE,flexible,2016,7,58.39,generated_fallback,108,63,3,8,2,739261,0,0,0
+14,Harlem stay 14,Host 82,Manhattan,Harlem,Shared room,159.98,38,2.84,4,3,145,2025-02-05,31.0,TRUE,moderate,2017,6,60.17,generated_fallback,98,68,2,7,3,739287,1,1,0
+15,St. George stay 15,Host 87,Staten Island,St. George,Entire home/apt,122.99,41,1.73,5,4,139,2026-01-09,19.68,FALSE,strict,2018,3,61.83,generated_fallback,196,72,4,14,0,739625,0,2,0
+16,Park Slope stay 16,Host 67,Brooklyn,Park Slope,Entire home/apt,114.56,27,2.97,4,4,122,2025-01-11,19.68,TRUE,unknown,2019,5,66.57,generated_fallback,150,54,1,11,0,739262,1,3,0
+17,Tottenville stay 17,Host 39,Staten Island,Tottenville,Entire home/apt,157.47,77,2.65,4,4,141,2025-02-06,27.9,FALSE,flexible,2020,6,61.46,generated_fallback,215,26,4,15,0,739288,0,0,0
+18,St. George stay 18,Host 83,Staten Island,St. George,Entire home/apt,256.83,26,1.67,4,3,143,2025-07-28,45.14,TRUE,moderate,2021,3,60.74,generated_fallback,201,69,4,14,0,739460,1,1,0
+19,Williamsburg stay 19,Host 16,Brooklyn,Williamsburg,Entire home/apt,115.28,36,0.93,3,1,121,2025-02-01,23.84,FALSE,strict,2022,5,66.85,generated_fallback,231,6,1,16,0,739283,0,2,0
+20,Fordham stay 20,Host 67,Bronx,Fordham,Entire home/apt,113.23,54,2.85,4,4,139,2025-05-08,18.12,TRUE,unknown,2003,6,61.93,generated_fallback,69,54,0,5,0,739379,1,3,0
+21,SoHo stay 21,Host 79,Manhattan,SoHo,Shared room,178.2,61,3.89,3,1,141,2025-03-27,29.86,FALSE,flexible,2004,6,61.48,generated_fallback,186,65,2,13,3,739337,0,0,0
+22,Riverdale stay 22,Host 10,Bronx,Riverdale,Private room,188.15,56,3.26,4,3,148,2025-05-27,32.8,TRUE,moderate,2005,4,59.47,generated_fallback,166,0,0,12,2,739398,1,1,0
+23,Fordham stay 23,Host 29,Bronx,Fordham,Hotel room,195.51,34,2.68,3,5,146,2025-10-24,35.33,FALSE,strict,2006,4,59.98,generated_fallback,70,18,0,5,1,739548,0,2,0
+24,St. George stay 24,Host 77,Staten Island,St. George,Private room,141.09,29,3.94,3,8,147,2025-04-06,27.97,TRUE,unknown,2007,6,59.81,generated_fallback,205,63,4,14,2,739347,1,3,0
+25,Midtown stay 25,Host 41,Manhattan,Midtown,Private room,182.58,75,2.12,3,3,131,2025-08-03,29.21,FALSE,flexible,2008,4,64.08,generated_fallback,128,28,2,9,2,739466,0,0,0
+26,Tottenville stay 26,Host 40,Staten Island,Tottenville,Private room,172.62,55,2.34,5,5,144,2025-06-03,28.97,TRUE,moderate,2009,7,60.63,generated_fallback,222,27,4,15,2,739405,1,1,0
+27,Riverdale stay 27,Host 82,Bronx,Riverdale,Hotel room,160.67,86,2.83,3,3,142,2025-09-17,28.41,FALSE,strict,2010,4,61.07,generated_fallback,171,68,0,12,1,739511,0,2,0
+28,Astoria stay 28,Host 30,Queens,Astoria,Hotel room,74.1,73,1.13,4,4,127,2025-11-10,15.91,TRUE,unknown,2011,5,65.2,generated_fallback,7,19,3,0,1,739565,1,3,0
+29,St. George stay 29,Host 27,Staten Island,St. George,Private room,138.78,55,2.19,5,8,145,2025-10-11,27.6,FALSE,flexible,2012,5,60.17,generated_fallback,206,16,4,14,2,739535,0,0,0
+30,Park Slope stay 30,Host 43,Brooklyn,Park Slope,Entire home/apt,102.81,39,1.56,3,3,116,2025-02-17,16.45,TRUE,moderate,2013,3,68.26,generated_fallback,152,30,1,11,0,739299,1,1,0
+31,Riverdale stay 31,Host 30,Bronx,Riverdale,Entire home/apt,160.0,88,2.32,4,1,142,2025-10-15,26.95,FALSE,strict,2014,5,60.98,generated_fallback,172,19,0,12,0,739539,0,2,0
+32,Midtown stay 32,Host 57,Manhattan,Midtown,Entire home/apt,129.6,73,1.86,3,3,127,2025-01-22,23.44,TRUE,unknown,2015,5,65.34,generated_fallback,129,44,2,9,0,739273,1,3,0
+33,Flushing stay 33,Host 36,Queens,Flushing,Hotel room,134.36,86,1.72,4,1,135,2025-10-14,25.55,FALSE,flexible,2016,5,63.15,generated_fallback,59,23,3,4,1,739538,0,0,0
+34,Fordham stay 34,Host 32,Bronx,Fordham,Private room,195.49,48,2.58,5,3,154,2025-06-20,36.68,TRUE,moderate,2017,4,57.75,generated_fallback,72,21,0,5,2,739422,1,1,0
+35,Fordham stay 35,Host 23,Bronx,Fordham,Shared room,224.67,37,2.17,4,4,167,2025-04-24,35.95,FALSE,strict,2018,6,54.17,generated_fallback,73,12,0,5,3,739365,0,2,0
+36,DUMBO stay 36,Host 94,Brooklyn,DUMBO,Entire home/apt,125.51,63,2.74,3,5,120,2025-05-23,21.43,TRUE,unknown,2019,2,67.25,generated_fallback,48,79,1,3,0,739394,1,3,0
+37,Long Island City stay 37,Host 13,Queens,Long Island City,Private room,72.31,56,4.59,3,7,141,2025-10-25,14.27,FALSE,flexible,2020,4,61.43,generated_fallback,117,3,3,8,2,739549,0,0,0
+38,Astoria stay 38,Host 87,Queens,Astoria,Entire home/apt,256.54,52,2.94,5,3,136,2025-04-08,45.1,TRUE,moderate,2021,5,62.77,generated_fallback,8,72,3,0,0,739349,1,1,0
+39,Astoria stay 39,Host 95,Queens,Astoria,Private room,145.56,67,2.78,5,6,139,2025-06-19,28.69,FALSE,strict,2022,2,61.9,generated_fallback,9,80,3,0,2,739421,0,2,0
+40,Great Kills stay 40,Host 95,Staten Island,Great Kills,Private room,113.5,65,1.46,4,5,143,2025-10-11,18.16,TRUE,unknown,2003,3,60.81,generated_fallback,92,80,4,6,2,739535,1,3,0
+41,Bushwick stay 41,Host 88,Brooklyn,Bushwick,Entire home/apt,220.6,37,1.38,3,3,125,2025-06-05,36.65,FALSE,flexible,2004,8,65.88,generated_fallback,26,73,1,1,0,739407,0,0,0
+42,Astoria stay 42,Host 66,Queens,Astoria,Entire home/apt,119.87,43,1.81,5,1,121,2025-03-28,21.88,TRUE,moderate,2005,2,66.89,generated_fallback,11,53,3,0,0,739338,1,1,0
+43,Harlem stay 43,Host 40,Manhattan,Harlem,Private room,228.01,30,2.03,3,2,139,2025-03-17,40.53,FALSE,strict,2006,6,61.83,generated_fallback,102,27,2,7,2,739327,0,2,0
+44,Midtown stay 44,Host 63,Manhattan,Midtown,Entire home/apt,148.86,58,3.49,5,2,120,2025-12-23,29.22,TRUE,unknown,2007,8,67.08,generated_fallback,130,50,2,9,0,739608,1,3,0
+45,Riverdale stay 45,Host 23,Bronx,Riverdale,Entire home/apt,76.67,40,2.54,5,2,130,2025-09-23,12.27,FALSE,flexible,2008,4,64.32,generated_fallback,173,12,0,12,0,739517,0,0,0
+46,Mott Haven stay 46,Host 69,Bronx,Mott Haven,Private room,168.95,54,0.78,5,1,142,2025-06-12,28.38,TRUE,moderate,2009,3,61.01,generated_fallback,143,56,0,10,2,739414,1,1,0
+47,Fordham stay 47,Host 67,Bronx,Fordham,Shared room,201.52,5,3.85,4,2,162,2025-08-19,34.94,FALSE,strict,2010,6,55.67,generated_fallback,74,54,0,5,3,739482,0,2,0
+48,Astoria stay 48,Host 40,Queens,Astoria,Shared room,89.3,44,2.33,4,4,141,2025-05-01,18.34,TRUE,unknown,2011,5,61.24,generated_fallback,12,27,3,0,3,739372,1,3,0
+49,Flushing stay 49,Host 98,Queens,Flushing,Entire home/apt,144.87,63,2.84,4,5,128,2025-07-28,28.58,FALSE,flexible,2012,3,64.94,generated_fallback,60,83,3,4,0,739460,0,0,0
+50,Long Island City stay 50,Host 84,Queens,Long Island City,Entire home/apt,85.09,63,2.61,5,3,126,2025-07-14,13.61,TRUE,moderate,2013,6,65.58,generated_fallback,118,70,3,8,0,739446,1,1,0
+51,Mott Haven stay 51,Host 63,Bronx,Mott Haven,Hotel room,197.28,32,0.66,5,3,149,2025-04-23,32.91,FALSE,strict,2014,6,59.05,generated_fallback,144,50,0,10,1,739364,0,2,0
+52,Mott Haven stay 52,Host 61,Bronx,Mott Haven,Entire home/apt,161.31,34,2.06,3,1,144,2025-11-15,28.51,TRUE,unknown,2015,4,60.59,generated_fallback,145,48,0,10,0,739570,1,3,0
+53,St. George stay 53,Host 64,Staten Island,St. George,Hotel room,171.55,57,3.21,3,5,147,2025-05-14,31.5,FALSE,flexible,2016,6,59.68,generated_fallback,207,51,4,14,1,739385,0,0,0
+54,Riverdale stay 54,Host 63,Bronx,Riverdale,Entire home/apt,65.77,55,2.39,3,4,142,2025-10-04,15.92,TRUE,moderate,2017,6,61.11,generated_fallback,174,50,0,12,0,739528,1,1,0
+55,Harlem stay 55,Host 13,Manhattan,Harlem,Entire home/apt,175.38,59,3.1,3,3,132,2025-11-15,28.06,FALSE,strict,2018,4,63.91,generated_fallback,103,3,2,7,0,739570,0,2,0
+56,Bushwick stay 56,Host 99,Brooklyn,Bushwick,Entire home/apt,64.68,42,2.36,5,5,118,2025-11-07,11.7,TRUE,unknown,2019,6,67.57,generated_fallback,27,84,1,1,0,739562,1,3,0
+57,Chelsea stay 57,Host 96,Manhattan,Chelsea,Hotel room,102.14,76,3.29,5,2,122,2025-04-12,19.04,FALSE,flexible,2020,2,66.46,generated_fallback,40,81,2,2,1,739353,0,0,0
+58,Chelsea stay 58,Host 25,Manhattan,Chelsea,Entire home/apt,182.21,68,2.81,3,1,127,2025-06-27,33.2,TRUE,moderate,2021,5,65.19,generated_fallback,41,14,2,2,0,739429,1,1,0
+59,Great Kills stay 59,Host 63,Staten Island,Great Kills,Private room,230.26,46,2.63,4,3,156,2025-11-22,42.24,FALSE,strict,2022,8,57.3,generated_fallback,93,50,4,6,2,739577,0,2,0
+60,Fordham stay 60,Host 88,Bronx,Fordham,Entire home/apt,204.95,28,2.89,4,1,144,2025-08-27,32.79,TRUE,unknown,2003,6,60.68,generated_fallback,75,73,0,5,0,739490,1,3,0
+61,Fordham stay 61,Host 45,Bronx,Fordham,Private room,136.75,49,3.01,4,2,146,2025-10-19,23.23,FALSE,flexible,2004,3,59.99,generated_fallback,76,32,0,5,2,739543,0,0,0
+62,Tottenville stay 62,Host 37,Staten Island,Tottenville,Entire home/apt,163.84,61,1.88,4,5,135,2025-11-02,28.91,TRUE,moderate,2005,5,63.08,generated_fallback,223,24,4,15,0,739557,1,1,0
+63,Long Island City stay 63,Host 72,Queens,Long Island City,Entire home/apt,152.19,79,1.63,4,3,126,2025-11-27,28.4,FALSE,strict,2006,2,65.61,generated_fallback,119,59,3,8,0,739582,0,2,0
+64,Riverdale stay 64,Host 49,Bronx,Riverdale,Shared room,69.83,45,1.86,5,2,147,2025-09-29,16.57,TRUE,unknown,2007,6,59.63,generated_fallback,175,36,0,12,3,739523,1,3,0
+65,Flushing stay 65,Host 49,Queens,Flushing,Hotel room,285.24,49,2.4,3,5,139,2025-06-11,45.64,FALSE,flexible,2008,7,61.94,generated_fallback,61,36,3,4,1,739413,0,0,0
+66,Chelsea stay 66,Host 77,Manhattan,Chelsea,Entire home/apt,197.76,50,0.1,3,1,123,2025-06-01,32.99,TRUE,moderate,2009,6,66.32,generated_fallback,42,63,2,2,0,739403,1,1,0
+67,Park Slope stay 67,Host 16,Brooklyn,Park Slope,Entire home/apt,363.53,40,0.79,3,2,130,2025-11-23,60.86,FALSE,strict,2010,5,64.48,generated_fallback,153,6,1,11,0,739578,0,2,0
+68,Mott Haven stay 68,Host 33,Bronx,Mott Haven,Shared room,146.13,21,3.22,4,3,154,2025-02-28,27.43,TRUE,unknown,2011,4,57.68,generated_fallback,146,22,0,10,3,739310,1,3,0
+69,SoHo stay 69,Host 82,Manhattan,SoHo,Private room,91.14,43,2.84,3,3,131,2025-03-02,19.98,FALSE,flexible,2012,4,64.02,generated_fallback,187,68,2,13,2,739312,0,0,0
+70,Great Kills stay 70,Host 67,Staten Island,Great Kills,Private room,139.17,51,3.18,5,3,145,2025-08-08,22.27,TRUE,moderate,2013,5,60.41,generated_fallback,94,54,4,6,2,739471,1,1,0
+71,Long Island City stay 71,Host 36,Queens,Long Island City,Private room,243.03,45,1.79,3,2,151,2025-03-22,40.23,FALSE,strict,2014,7,58.65,generated_fallback,120,23,3,8,2,739332,0,2,0
+72,Bushwick stay 72,Host 70,Brooklyn,Bushwick,Private room,249.18,24,2.2,5,5,135,2025-05-25,42.57,TRUE,unknown,2015,3,62.95,generated_fallback,29,57,1,1,2,739396,1,3,0
+73,Mott Haven stay 73,Host 94,Bronx,Mott Haven,Private room,195.21,53,2.64,3,2,155,2025-10-06,35.28,FALSE,flexible,2016,3,57.44,generated_fallback,147,79,0,10,2,739530,0,0,0
+74,Bushwick stay 74,Host 49,Brooklyn,Bushwick,Hotel room,98.94,71,0.7,4,1,123,2025-08-13,21.23,TRUE,moderate,2017,7,66.43,generated_fallback,30,36,1,1,1,739476,1,1,0
+75,SoHo stay 75,Host 73,Manhattan,SoHo,Private room,157.54,67,1.03,4,5,140,2026-01-12,25.21,FALSE,strict,2018,4,61.72,generated_fallback,188,60,2,13,2,739628,0,2,0
+76,Long Island City stay 76,Host 83,Queens,Long Island City,Entire home/apt,211.08,87,2.21,5,3,134,2025-05-18,35.12,TRUE,unknown,2019,4,63.29,generated_fallback,121,69,3,8,0,739389,1,3,0
+77,St. George stay 77,Host 45,Staten Island,St. George,Private room,171.42,28,3.01,5,6,151,2025-09-09,30.13,FALSE,flexible,2020,4,58.67,generated_fallback,208,32,4,14,2,739503,0,0,0
+78,SoHo stay 78,Host 52,Manhattan,SoHo,Entire home/apt,200.78,37,1.31,5,5,125,2025-07-25,36.17,TRUE,moderate,2021,2,65.73,generated_fallback,189,39,2,13,0,739457,1,1,0
+79,St. George stay 79,Host 61,Staten Island,St. George,Entire home/apt,166.88,33,3.76,3,1,141,2025-12-03,32.1,FALSE,strict,2022,4,61.31,generated_fallback,209,48,4,14,0,739588,0,2,0
+80,Great Kills stay 80,Host 90,Staten Island,Great Kills,Entire home/apt,96.3,35,2.07,4,4,135,2025-10-09,15.41,TRUE,unknown,2003,5,63.02,generated_fallback,95,75,4,6,0,739533,1,3,0
+81,Park Slope stay 81,Host 87,Brooklyn,Park Slope,Entire home/apt,107.29,89,2.93,4,1,111,2025-10-10,18.52,FALSE,flexible,2004,3,69.46,generated_fallback,154,72,1,11,0,739534,0,0,0
+82,SoHo stay 82,Host 25,Manhattan,SoHo,Entire home/apt,354.37,71,2.02,5,3,129,2025-05-30,59.4,TRUE,moderate,2005,5,64.55,generated_fallback,190,14,2,13,0,739401,1,1,0
+83,Tottenville stay 83,Host 80,Staten Island,Tottenville,Entire home/apt,151.81,67,2.84,5,5,136,2025-09-18,28.34,FALSE,strict,2006,7,62.77,generated_fallback,224,66,4,15,0,739512,0,2,0
+84,Williamsburg stay 84,Host 74,Brooklyn,Williamsburg,Entire home/apt,124.6,18,2.39,5,4,112,2025-06-02,25.34,TRUE,unknown,2007,2,69.43,generated_fallback,239,61,1,16,0,739404,1,3,0
+85,Tottenville stay 85,Host 54,Staten Island,Tottenville,Hotel room,56.64,74,1.48,4,6,131,2025-08-22,9.06,FALSE,flexible,2008,5,64.12,generated_fallback,225,41,4,15,1,739485,0,0,0
+86,Astoria stay 86,Host 62,Queens,Astoria,Hotel room,380.12,35,4.15,5,4,139,2025-07-15,62.17,TRUE,moderate,2009,4,61.88,generated_fallback,14,49,3,0,1,739447,1,1,0
+87,Fordham stay 87,Host 26,Bronx,Fordham,Shared room,103.37,67,0.93,3,3,149,2025-08-14,19.24,FALSE,strict,2010,1,59.31,generated_fallback,77,15,0,5,3,739477,0,2,0
+88,SoHo stay 88,Host 19,Manhattan,SoHo,Entire home/apt,276.73,87,0.1,4,5,126,2025-11-16,48.33,TRUE,unknown,2011,3,65.42,generated_fallback,191,8,2,13,0,739571,1,3,0
+89,Fordham stay 89,Host 50,Bronx,Fordham,Entire home/apt,110.98,44,0.79,4,1,137,2025-10-05,23.16,FALSE,flexible,2012,5,62.46,generated_fallback,78,37,0,5,0,739529,0,0,0
+90,Midtown stay 90,Host 21,Manhattan,Midtown,Entire home/apt,203.81,51,1.94,5,4,124,2025-12-27,32.61,TRUE,moderate,2013,3,66.12,generated_fallback,131,10,2,9,0,739612,1,1,0
+91,SoHo stay 91,Host 17,Manhattan,SoHo,Entire home/apt,196.74,70,2.11,3,5,133,2025-05-06,32.83,FALSE,strict,2014,7,63.65,generated_fallback,192,7,2,13,0,739377,0,2,0
+92,Great Kills stay 92,Host 58,Staten Island,Great Kills,Private room,167.27,51,1.8,5,2,149,2025-03-15,29.46,TRUE,unknown,2015,5,59.24,generated_fallback,96,45,4,6,2,739325,1,3,0
+93,DUMBO stay 93,Host 69,Brooklyn,DUMBO,Private room,130.31,28,3.75,3,2,130,2025-02-07,24.9,FALSE,flexible,2016,2,64.25,generated_fallback,49,56,1,3,2,739289,0,0,0
+94,Riverdale stay 94,Host 68,Bronx,Riverdale,Hotel room,154.65,88,2.81,4,2,144,2025-09-05,30.14,TRUE,moderate,2017,3,60.54,generated_fallback,176,55,0,12,1,739499,1,1,0
+95,Chelsea stay 95,Host 12,Manhattan,Chelsea,Entire home/apt,137.27,46,4.0,4,3,128,2025-01-05,21.96,FALSE,strict,2018,3,64.92,generated_fallback,43,2,2,2,0,739256,0,2,0
+96,Tottenville stay 96,Host 46,Staten Island,Tottenville,Private room,108.56,73,2.53,4,2,146,2025-04-23,18.72,TRUE,unknown,2019,3,60.13,generated_fallback,226,33,4,15,2,739364,1,3,0
+97,Park Slope stay 97,Host 90,Brooklyn,Park Slope,Private room,87.65,29,3.67,3,5,131,2025-06-08,16.72,FALSE,flexible,2020,4,64.19,generated_fallback,156,75,1,11,2,739410,0,0,0
+98,Mott Haven stay 98,Host 63,Bronx,Mott Haven,Private room,214.93,60,2.66,5,4,155,2025-07-07,38.44,TRUE,moderate,2021,8,57.45,generated_fallback,148,50,0,10,2,739439,1,1,0
+99,Tottenville stay 99,Host 71,Staten Island,Tottenville,Hotel room,210.49,59,3.3,4,3,141,2025-02-28,39.08,FALSE,strict,2022,1,61.38,generated_fallback,227,58,4,15,1,739310,0,2,0
+100,Mott Haven stay 100,Host 60,Bronx,Mott Haven,Entire home/apt,371.54,73,4.35,4,3,149,2025-02-16,59.45,TRUE,unknown,2003,3,59.29,generated_fallback,132,47,0,10,0,739298,1,3,0
+101,Mott Haven stay 101,Host 43,Bronx,Mott Haven,Entire home/apt,158.41,34,0.64,4,2,140,2025-02-25,26.7,FALSE,flexible,2004,5,61.73,generated_fallback,133,30,0,10,0,739307,0,0,0
+102,DUMBO stay 102,Host 38,Brooklyn,DUMBO,Entire home/apt,217.72,17,1.46,4,1,120,2025-12-25,37.54,TRUE,moderate,2005,5,67.11,generated_fallback,44,25,1,3,0,739610,1,1,0
+103,Long Island City stay 103,Host 73,Queens,Long Island City,Entire home/apt,161.57,69,3.0,5,4,128,2025-03-11,29.9,FALSE,strict,2006,5,64.86,generated_fallback,105,60,3,8,0,739321,0,2,0
+104,Riverdale stay 104,Host 85,Bronx,Riverdale,Entire home/apt,187.67,47,2.37,4,2,138,2025-12-02,35.43,TRUE,unknown,2007,5,62.17,generated_fallback,157,71,0,12,0,739587,1,3,0
+105,SoHo stay 105,Host 37,Manhattan,SoHo,Private room,105.74,42,0.1,4,5,127,2025-02-20,16.92,FALSE,flexible,2008,3,65.3,generated_fallback,177,24,2,13,2,739302,0,0,0
+106,Long Island City stay 106,Host 25,Queens,Long Island City,Hotel room,85.29,74,4.35,3,2,126,2025-12-06,15.0,TRUE,moderate,2009,5,65.59,generated_fallback,106,14,3,8,1,739591,1,1,0
+107,Williamsburg stay 107,Host 36,Brooklyn,Williamsburg,Entire home/apt,164.53,86,4.1,3,5,120,2025-10-28,29.02,FALSE,strict,2010,7,67.0,generated_fallback,228,23,1,16,0,739552,0,2,0
+108,Bushwick stay 108,Host 28,Brooklyn,Bushwick,Entire home/apt,161.81,55,3.77,3,3,117,2025-02-26,29.94,TRUE,unknown,2011,3,68.07,generated_fallback,15,17,1,1,0,739308,1,3,0
+109,Chelsea stay 109,Host 32,Manhattan,Chelsea,Entire home/apt,187.84,55,2.34,4,5,125,2025-09-27,35.45,FALSE,flexible,2012,4,65.72,generated_fallback,31,21,2,2,0,739521,0,0,0
+110,Midtown stay 110,Host 74,Manhattan,Midtown,Entire home/apt,282.15,45,2.67,5,6,129,2025-12-04,45.14,TRUE,moderate,2013,4,64.59,generated_fallback,123,61,2,9,0,739589,1,1,0
+111,Great Kills stay 111,Host 61,Staten Island,Great Kills,Entire home/apt,82.0,73,1.93,5,4,134,2025-08-16,14.47,FALSE,strict,2014,3,63.33,generated_fallback,80,48,4,6,0,739479,0,2,0
+112,Midtown stay 112,Host 84,Manhattan,Midtown,Entire home/apt,122.39,72,1.47,5,3,124,2025-09-29,22.28,TRUE,unknown,2015,5,66.13,generated_fallback,124,70,2,9,0,739523,1,3,0
+113,Flushing stay 113,Host 93,Queens,Flushing,Private room,240.49,50,1.3,5,1,147,2025-04-21,42.53,FALSE,flexible,2016,6,59.68,generated_fallback,50,78,3,4,2,739362,0,0,0
+114,Riverdale stay 114,Host 22,Bronx,Riverdale,Hotel room,160.82,69,2.04,4,5,145,2025-07-11,31.13,TRUE,moderate,2017,2,60.41,generated_fallback,158,11,0,12,1,739443,1,1,0
+115,DUMBO stay 115,Host 57,Brooklyn,DUMBO,Entire home/apt,125.39,61,2.93,5,1,120,2025-10-15,20.06,FALSE,strict,2018,4,67.08,generated_fallback,45,44,1,3,0,739539,0,2,0
+116,Great Kills stay 116,Host 64,Staten Island,Great Kills,Private room,276.11,77,3.59,4,1,156,2025-11-04,45.53,TRUE,unknown,2019,6,57.35,generated_fallback,81,51,4,6,2,739559,1,3,0
+117,Flushing stay 117,Host 23,Queens,Flushing,Entire home/apt,145.07,66,1.57,3,6,134,2025-05-23,25.91,FALSE,flexible,2020,4,63.27,generated_fallback,51,12,3,4,0,739394,0,0,0
+118,St. George stay 118,Host 88,Staten Island,St. George,Shared room,128.47,73,1.76,5,1,151,2025-12-03,24.61,TRUE,moderate,2021,7,58.53,generated_fallback,193,73,4,14,3,739588,1,1,0
+119,Astoria stay 119,Host 10,Queens,Astoria,Entire home/apt,253.29,48,2.66,5,5,138,2025-07-25,45.93,FALSE,strict,2022,5,62.18,generated_fallback,0,0,3,0,0,739457,0,2,0
+120,Chelsea stay 120,Host 58,Manhattan,Chelsea,Private room,174.76,66,1.52,4,4,133,2025-06-09,27.96,TRUE,unknown,2003,3,63.55,generated_fallback,32,45,2,2,2,739411,1,3,0
+121,Long Island City stay 121,Host 16,Queens,Long Island City,Private room,137.65,64,2.0,5,2,136,2025-08-06,23.37,FALSE,flexible,2004,5,62.69,generated_fallback,107,6,3,8,2,739469,0,0,0
+122,Fordham stay 122,Host 65,Bronx,Fordham,Entire home/apt,162.55,54,3.67,5,5,136,2025-09-07,28.71,TRUE,moderate,2005,4,62.7,generated_fallback,63,52,0,5,0,739501,1,1,0
+123,Tottenville stay 123,Host 36,Staten Island,Tottenville,Entire home/apt,129.47,60,2.16,3,5,136,2025-05-11,24.77,FALSE,strict,2006,5,62.66,generated_fallback,210,23,4,15,0,739382,0,2,0
+124,Flushing stay 124,Host 78,Queens,Flushing,Entire home/apt,165.98,46,2.03,5,1,124,2025-07-01,31.96,TRUE,unknown,2007,3,66.14,generated_fallback,52,64,3,4,0,739433,1,3,0
+125,SoHo stay 125,Host 50,Manhattan,SoHo,Shared room,229.34,80,1.12,5,2,137,2025-11-24,36.69,FALSE,flexible,2008,5,62.46,generated_fallback,178,37,2,13,3,739579,0,0,0
+126,Riverdale stay 126,Host 89,Bronx,Riverdale,Entire home/apt,330.11,39,0.77,4,4,141,2025-02-15,54.17,TRUE,moderate,2009,1,61.46,generated_fallback,159,74,0,12,0,739297,1,1,0
+127,Mott Haven stay 127,Host 49,Bronx,Mott Haven,Entire home/apt,130.04,36,2.38,3,2,140,2025-02-09,23.51,FALSE,strict,2010,6,61.55,generated_fallback,134,36,0,10,0,739291,0,2,0
+128,Tottenville stay 128,Host 92,Staten Island,Tottenville,Entire home/apt,117.75,68,2.72,3,2,134,2025-05-12,22.89,TRUE,unknown,2011,5,63.41,generated_fallback,211,77,4,15,0,739383,1,3,0
+129,Bushwick stay 129,Host 90,Brooklyn,Bushwick,Private room,165.39,41,0.56,5,4,126,2025-08-18,31.86,FALSE,flexible,2012,3,65.36,generated_fallback,16,75,1,1,2,739481,0,0,0
+130,Tottenville stay 130,Host 29,Staten Island,Tottenville,Private room,115.24,64,1.25,5,4,141,2025-06-05,18.44,TRUE,moderate,2013,3,61.25,generated_fallback,212,18,4,15,2,739407,1,1,0
+131,Long Island City stay 131,Host 17,Queens,Long Island City,Entire home/apt,207.63,47,1.79,5,5,138,2025-02-16,34.57,FALSE,strict,2014,8,62.15,generated_fallback,109,7,3,8,0,739298,0,2,0
+132,Tottenville stay 132,Host 15,Staten Island,Tottenville,Private room,336.61,17,0.49,5,5,155,2025-04-07,56.56,TRUE,unknown,2015,1,57.4,generated_fallback,213,5,4,15,2,739348,1,3,0
+133,Long Island City stay 133,Host 53,Queens,Long Island City,Entire home/apt,197.52,62,2.86,5,3,134,2025-03-30,35.65,FALSE,flexible,2016,4,63.22,generated_fallback,110,40,3,8,0,739340,0,0,0
+134,Chelsea stay 134,Host 56,Manhattan,Chelsea,Private room,148.89,23,1.77,4,5,140,2025-06-23,29.22,TRUE,moderate,2017,6,61.51,generated_fallback,33,43,2,2,2,739425,1,1,0
+135,St. George stay 135,Host 96,Staten Island,St. George,Private room,199.37,55,1.77,5,4,151,2025-11-05,31.9,FALSE,strict,2018,2,58.57,generated_fallback,194,81,4,14,2,739560,0,2,0
+136,Park Slope stay 136,Host 93,Brooklyn,Park Slope,Entire home/apt,272.39,68,2.05,5,2,126,2025-12-29,44.93,TRUE,unknown,2019,5,65.42,generated_fallback,149,78,1,11,0,739614,1,3,0
+137,Harlem stay 137,Host 99,Manhattan,Harlem,Private room,74.07,43,3.26,5,1,132,2025-09-27,14.55,FALSE,flexible,2020,6,63.8,generated_fallback,97,84,2,7,2,739521,0,0,0
+138,SoHo stay 138,Host 53,Manhattan,SoHo,Private room,258.16,31,3.6,3,3,141,2025-03-12,45.36,TRUE,moderate,2021,3,61.26,generated_fallback,179,40,2,13,2,739322,1,1,0
+139,Williamsburg stay 139,Host 77,Brooklyn,Williamsburg,Entire home/apt,255.75,32,3.37,5,4,128,2025-03-09,46.32,FALSE,strict,2022,7,64.87,generated_fallback,229,63,1,16,0,739319,0,2,0
+140,Great Kills stay 140,Host 31,Staten Island,Great Kills,Entire home/apt,163.19,45,2.34,4,3,136,2025-12-13,26.11,TRUE,unknown,2003,3,62.8,generated_fallback,82,20,4,6,0,739598,1,3,0
+141,DUMBO stay 141,Host 40,Brooklyn,DUMBO,Private room,207.04,50,1.67,4,7,131,2025-04-10,34.48,FALSE,flexible,2004,5,64.08,generated_fallback,46,27,1,3,2,739351,0,0,0
+142,Long Island City stay 142,Host 58,Queens,Long Island City,Hotel room,128.25,47,1.25,3,3,130,2025-04-13,23.22,TRUE,moderate,2005,4,64.45,generated_fallback,111,45,3,8,1,739354,1,1,0
+143,St. George stay 143,Host 23,Staten Island,St. George,Shared room,132.67,23,2.08,3,1,153,2025-05-26,25.28,FALSE,strict,2006,6,58.06,generated_fallback,195,12,4,14,3,739397,0,2,0
+144,Chelsea stay 144,Host 38,Manhattan,Chelsea,Entire home/apt,156.09,66,3.33,3,1,121,2025-08-01,30.37,TRUE,unknown,2007,5,66.98,generated_fallback,34,25,2,2,0,739464,1,3,0
+145,SoHo stay 145,Host 13,Manhattan,SoHo,Private room,175.43,65,2.19,5,4,129,2025-11-29,28.07,FALSE,flexible,2008,4,64.72,generated_fallback,180,3,2,13,2,739584,0,0,0
+146,Astoria stay 146,Host 27,Queens,Astoria,Entire home/apt,124.52,67,2.47,5,1,122,2025-01-03,21.27,TRUE,moderate,2009,5,66.65,generated_fallback,2,16,3,0,0,739254,1,1,0
+147,Midtown stay 147,Host 77,Manhattan,Midtown,Entire home/apt,196.6,26,0.71,3,5,129,2025-06-04,34.16,FALSE,strict,2010,6,64.61,generated_fallback,125,63,2,9,0,739406,0,2,0
+148,Midtown stay 148,Host 73,Manhattan,Midtown,Entire home/apt,292.74,49,2.24,5,3,128,2025-10-22,50.89,TRUE,unknown,2011,5,64.93,generated_fallback,126,60,2,9,0,739546,1,3,0
+149,Bushwick stay 149,Host 33,Brooklyn,Bushwick,Entire home/apt,205.23,40,2.16,4,3,121,2025-02-04,38.24,FALSE,flexible,2012,4,66.97,generated_fallback,17,22,1,1,0,739286,0,0,0
+150,Tottenville stay 150,Host 70,Staten Island,Tottenville,Private room,80.39,30,3.45,4,4,142,2025-05-10,12.86,TRUE,moderate,2013,3,61.0,generated_fallback,214,57,4,15,2,739381,1,1,0
+151,Harlem stay 151,Host 84,Manhattan,Harlem,Private room,140.44,45,2.31,3,2,138,2025-06-30,23.82,FALSE,strict,2014,5,62.1,generated_fallback,99,70,2,7,2,739432,0,2,0
+152,Great Kills stay 152,Host 99,Staten Island,Great Kills,Shared room,116.09,44,1.71,3,4,156,2025-02-02,21.27,TRUE,unknown,2015,6,57.19,generated_fallback,83,84,4,6,3,739284,1,3,0
+153,Mott Haven stay 153,Host 49,Bronx,Mott Haven,Entire home/apt,399.57,56,0.1,5,3,155,2025-08-31,67.98,FALSE,flexible,2016,5,57.48,generated_fallback,135,36,0,10,0,739494,0,0,0
+154,Astoria stay 154,Host 93,Queens,Astoria,Private room,84.54,28,2.12,4,4,142,2025-08-12,18.93,TRUE,moderate,2017,5,61.04,generated_fallback,3,78,3,0,2,739475,1,1,0
+155,Fordham stay 155,Host 98,Bronx,Fordham,Entire home/apt,151.52,48,0.1,5,4,145,2025-05-17,24.24,FALSE,strict,2018,4,60.35,generated_fallback,64,83,0,5,0,739388,0,2,0
+156,SoHo stay 156,Host 51,Manhattan,SoHo,Entire home/apt,77.07,64,3.18,4,5,121,2025-06-06,13.68,TRUE,unknown,2019,2,66.77,generated_fallback,181,38,2,13,0,739408,1,3,0
+157,Fordham stay 157,Host 55,Bronx,Fordham,Private room,286.72,29,1.52,5,2,156,2025-01-30,48.58,FALSE,flexible,2020,2,57.13,generated_fallback,65,42,0,5,2,739281,0,0,0
+158,SoHo stay 158,Host 28,Manhattan,SoHo,Entire home/apt,339.58,35,3.36,4,1,135,2025-01-18,58.38,TRUE,moderate,2021,5,63.04,generated_fallback,182,17,2,13,0,739269,1,1,0
+159,Williamsburg stay 159,Host 14,Brooklyn,Williamsburg,Entire home/apt,307.42,26,1.09,4,2,128,2025-07-10,54.59,FALSE,strict,2022,2,65.06,generated_fallback,230,4,1,16,0,739442,0,2,0
+160,Mott Haven stay 160,Host 41,Bronx,Mott Haven,Private room,180.51,26,2.64,3,3,153,2025-09-13,28.88,TRUE,unknown,2003,4,58.07,generated_fallback,136,28,0,10,2,739507,1,3,0
+161,Great Kills stay 161,Host 37,Staten Island,Great Kills,Hotel room,383.36,65,3.3,4,3,150,2025-04-13,62.69,FALSE,flexible,2004,5,58.96,generated_fallback,84,24,4,6,1,739354,0,0,0
+162,Chelsea stay 162,Host 21,Manhattan,Chelsea,Shared room,127.43,56,3.47,4,1,133,2025-12-08,23.09,TRUE,moderate,2005,3,63.63,generated_fallback,35,10,2,2,3,739593,1,1,0
+163,Long Island City stay 163,Host 99,Queens,Long Island City,Entire home/apt,184.63,81,1.13,5,1,128,2025-04-25,33.59,FALSE,strict,2006,5,64.97,generated_fallback,112,84,3,8,0,739366,0,2,0
+164,Chelsea stay 164,Host 83,Manhattan,Chelsea,Shared room,140.5,23,1.05,5,6,137,2025-03-08,27.88,TRUE,unknown,2007,5,62.58,generated_fallback,36,69,2,2,3,739318,1,3,0
+165,St. George stay 165,Host 62,Staten Island,St. George,Entire home/apt,242.56,50,2.65,3,1,135,2025-03-06,38.81,FALSE,flexible,2008,2,63.11,generated_fallback,197,49,4,14,0,739316,0,0,0
+166,Long Island City stay 166,Host 80,Queens,Long Island City,Entire home/apt,248.3,45,1.95,3,3,133,2025-08-10,41.08,TRUE,moderate,2009,6,63.6,generated_fallback,113,66,3,8,0,739473,1,1,0
+167,St. George stay 167,Host 38,Staten Island,St. George,Shared room,196.62,36,0.92,4,7,157,2025-02-10,34.16,FALSE,strict,2010,7,57.06,generated_fallback,198,25,4,14,3,739292,0,2,0
+168,Astoria stay 168,Host 78,Queens,Astoria,Private room,128.26,58,3.71,5,5,133,2025-10-25,24.57,TRUE,unknown,2011,2,63.54,generated_fallback,4,64,3,0,2,739549,1,3,0
+169,Bushwick stay 169,Host 82,Brooklyn,Bushwick,Private room,154.13,20,4.52,3,5,132,2025-01-24,30.06,FALSE,flexible,2012,5,63.9,generated_fallback,18,68,1,1,2,739275,0,0,0
+170,Great Kills stay 170,Host 73,Staten Island,Great Kills,Private room,113.82,25,3.46,5,2,145,2025-06-04,18.21,TRUE,moderate,2013,6,60.33,generated_fallback,85,60,4,6,2,739406,1,1,0
+171,Mott Haven stay 171,Host 17,Bronx,Mott Haven,Shared room,260.38,38,3.02,4,5,167,2025-04-15,43.01,FALSE,strict,2014,6,54.27,generated_fallback,137,7,0,10,3,739356,0,2,0
+172,Long Island City stay 172,Host 54,Queens,Long Island City,Entire home/apt,78.89,32,2.98,4,3,130,2025-09-21,15.32,TRUE,unknown,2015,5,64.26,generated_fallback,114,41,3,8,0,739515,1,3,0
+173,St. George stay 173,Host 22,Staten Island,St. George,Entire home/apt,234.54,53,4.92,5,5,144,2025-08-03,41.58,FALSE,flexible,2016,4,60.67,generated_fallback,199,11,4,14,0,739466,0,0,0
+174,Bushwick stay 174,Host 30,Brooklyn,Bushwick,Shared room,247.99,38,1.08,4,4,143,2025-06-07,45.08,TRUE,moderate,2017,4,60.77,generated_fallback,19,19,1,1,3,739409,1,1,0
+175,Mott Haven stay 175,Host 84,Bronx,Mott Haven,Entire home/apt,224.17,41,2.19,4,4,151,2025-11-02,35.87,FALSE,strict,2018,5,58.71,generated_fallback,138,70,0,10,0,739557,0,2,0
+176,Riverdale stay 176,Host 56,Bronx,Riverdale,Private room,125.61,14,2.49,4,2,155,2025-01-27,21.45,TRUE,unknown,2019,6,57.5,generated_fallback,160,43,0,12,2,739278,1,3,0
+177,Tottenville stay 177,Host 80,Staten Island,Tottenville,Entire home/apt,272.65,73,1.79,5,9,146,2025-11-09,46.32,FALSE,flexible,2020,5,60.12,generated_fallback,216,66,4,15,0,739564,0,0,0
+178,Chelsea stay 178,Host 56,Manhattan,Chelsea,Hotel room,289.96,65,2.42,5,2,133,2025-07-25,50.44,TRUE,moderate,2021,5,63.44,generated_fallback,37,43,2,2,1,739457,1,1,0
+179,St. George stay 179,Host 68,Staten Island,St. George,Entire home/apt,217.83,44,3.78,3,7,145,2025-06-17,40.25,FALSE,strict,2022,4,60.23,generated_fallback,200,55,4,14,0,739419,0,2,0
+180,Great Kills stay 180,Host 53,Staten Island,Great Kills,Entire home/apt,344.71,53,1.09,4,3,145,2025-12-29,55.15,TRUE,unknown,2003,3,60.39,generated_fallback,86,40,4,6,0,739614,1,3,0
+181,Great Kills stay 181,Host 63,Staten Island,Great Kills,Entire home/apt,266.63,50,0.7,5,2,141,2025-12-19,44.01,FALSE,flexible,2004,7,61.35,generated_fallback,87,50,4,6,0,739604,0,0,0
+182,SoHo stay 182,Host 39,Manhattan,SoHo,Entire home/apt,159.37,77,2.14,3,1,122,2025-09-26,28.2,TRUE,moderate,2005,6,66.64,generated_fallback,183,26,2,13,0,739520,1,1,0
+183,Great Kills stay 183,Host 24,Staten Island,Great Kills,Entire home/apt,127.07,97,2.83,4,6,132,2025-03-19,24.38,FALSE,strict,2006,3,63.71,generated_fallback,88,13,4,6,0,739329,0,2,0
+184,Fordham stay 184,Host 17,Bronx,Fordham,Entire home/apt,115.19,39,2.04,5,1,134,2025-06-16,23.83,TRUE,unknown,2007,7,63.23,generated_fallback,66,7,0,5,0,739418,1,3,0
+185,Fordham stay 185,Host 79,Bronx,Fordham,Entire home/apt,105.33,33,1.25,5,6,136,2025-12-15,16.85,FALSE,flexible,2008,8,62.81,generated_fallback,67,65,0,5,0,739600,0,0,0
+186,Long Island City stay 186,Host 48,Queens,Long Island City,Private room,175.71,45,2.63,5,1,130,2025-12-27,29.46,TRUE,moderate,2009,1,64.35,generated_fallback,115,35,3,8,2,739612,1,1,0
+187,Riverdale stay 187,Host 46,Bronx,Riverdale,Entire home/apt,76.91,80,3.59,4,6,135,2025-07-22,15.01,FALSE,strict,2010,4,63.12,generated_fallback,161,33,0,12,0,739454,0,2,0
+188,Astoria stay 188,Host 66,Queens,Astoria,Entire home/apt,117.65,50,1.38,3,1,126,2025-04-14,22.87,TRUE,unknown,2011,4,65.43,generated_fallback,5,53,3,0,0,739355,1,3,0
+189,Great Kills stay 189,Host 85,Staten Island,Great Kills,Hotel room,300.64,77,2.42,5,4,143,2025-04-26,53.5,FALSE,flexible,2012,3,60.72,generated_fallback,89,71,4,6,1,739367,0,0,0
+190,Williamsburg stay 190,Host 27,Brooklyn,Williamsburg,Entire home/apt,116.68,27,3.79,3,4,119,2025-07-28,18.67,TRUE,moderate,2013,4,67.53,generated_fallback,232,16,1,16,0,739460,1,1,0
+191,Riverdale stay 191,Host 17,Bronx,Riverdale,Private room,155.3,44,2.8,5,3,155,2025-04-29,26.2,FALSE,strict,2014,8,57.59,generated_fallback,162,7,0,12,2,739370,0,2,0
+192,Tottenville stay 192,Host 32,Staten Island,Tottenville,Private room,57.61,57,2.67,4,3,143,2025-09-11,11.92,TRUE,unknown,2015,3,60.83,generated_fallback,217,21,4,15,2,739505,1,3,0
+193,Park Slope stay 193,Host 52,Brooklyn,Park Slope,Shared room,51.41,32,1.69,5,9,132,2025-09-26,12.28,FALSE,flexible,2016,3,63.7,generated_fallback,151,39,1,11,3,739520,0,0,0
+194,Mott Haven stay 194,Host 30,Bronx,Mott Haven,Shared room,234.98,43,2.21,5,1,163,2025-04-06,43.0,TRUE,moderate,2017,6,55.41,generated_fallback,139,19,0,10,3,739347,1,1,0
+195,Harlem stay 195,Host 91,Manhattan,Harlem,Shared room,186.78,41,4.04,5,1,141,2025-06-17,29.88,FALSE,strict,2018,1,61.32,generated_fallback,100,76,2,7,3,739419,0,2,0
+196,SoHo stay 196,Host 41,Manhattan,SoHo,Private room,114.47,57,3.48,4,4,135,2025-05-17,19.67,TRUE,unknown,2019,4,62.96,generated_fallback,184,28,2,13,2,739388,1,3,0
+197,Flushing stay 197,Host 40,Queens,Flushing,Private room,191.62,46,2.91,4,4,147,2025-03-23,33.36,FALSE,flexible,2020,7,59.66,generated_fallback,53,27,3,4,2,739333,0,0,0
+198,Fordham stay 198,Host 25,Bronx,Fordham,Private room,146.41,43,0.72,4,1,150,2025-11-11,27.48,TRUE,moderate,2021,4,58.91,generated_fallback,68,14,0,5,2,739566,1,1,0
+199,Bushwick stay 199,Host 57,Brooklyn,Bushwick,Hotel room,149.84,9,1.2,4,5,128,2025-10-03,29.37,FALSE,strict,2022,4,65.04,generated_fallback,20,44,1,1,1,739527,0,2,0
+200,Bushwick stay 200,Host 77,Brooklyn,Bushwick,Private room,211.21,52,2.27,5,3,132,2025-02-27,33.79,TRUE,unknown,2003,8,63.9,generated_fallback,22,63,1,1,2,739309,1,3,0
+201,Chelsea stay 201,Host 24,Manhattan,Chelsea,Private room,62.39,37,1.66,4,1,126,2025-02-16,11.33,FALSE,flexible,2004,3,65.42,generated_fallback,38,13,2,2,2,739298,0,0,0
+202,Great Kills stay 202,Host 17,Staten Island,Great Kills,Shared room,144.92,20,0.87,4,2,152,2026-01-06,25.89,TRUE,moderate,2005,7,58.39,generated_fallback,90,7,4,6,3,739622,1,1,0
+203,SoHo stay 203,Host 64,Manhattan,SoHo,Entire home/apt,124.04,56,2.18,3,4,124,2025-02-05,23.9,FALSE,strict,2006,6,66.08,generated_fallback,185,51,2,13,0,739287,0,2,0
+204,Mott Haven stay 204,Host 92,Bronx,Mott Haven,Entire home/apt,81.12,71,3.44,4,3,131,2025-08-18,18.38,TRUE,unknown,2007,3,64.21,generated_fallback,140,77,0,10,0,739481,1,3,0
+205,Riverdale stay 205,Host 54,Bronx,Riverdale,Entire home/apt,210.25,61,4.94,4,8,140,2025-09-28,33.64,FALSE,flexible,2008,5,61.72,generated_fallback,163,41,0,12,0,739522,0,0,0
+206,Bushwick stay 206,Host 79,Brooklyn,Bushwick,Shared room,140.65,60,1.45,3,4,132,2025-05-07,23.85,TRUE,moderate,2009,8,63.75,generated_fallback,23,65,1,1,3,739378,1,1,0
+207,Riverdale stay 207,Host 14,Bronx,Riverdale,Entire home/apt,114.44,76,2.82,3,2,135,2025-05-04,21.01,FALSE,strict,2010,2,63.15,generated_fallback,164,4,0,12,0,739375,0,2,0
+208,Williamsburg stay 208,Host 16,Brooklyn,Williamsburg,Entire home/apt,360.41,31,2.41,4,4,128,2025-04-30,61.72,TRUE,unknown,2011,5,64.84,generated_fallback,233,6,1,16,0,739371,1,3,0
+209,St. George stay 209,Host 39,Staten Island,St. George,Private room,127.41,84,3.12,4,1,144,2025-10-23,25.79,FALSE,flexible,2012,6,60.58,generated_fallback,202,26,4,14,2,739547,0,0,0
+210,Tottenville stay 210,Host 76,Staten Island,Tottenville,Shared room,114.89,77,2.57,3,5,147,2025-10-13,18.38,TRUE,moderate,2013,1,59.81,generated_fallback,218,62,4,15,3,739537,1,1,0
+211,Tottenville stay 211,Host 54,Staten Island,Tottenville,Hotel room,73.18,42,3.93,5,2,138,2025-06-13,13.06,FALSE,strict,2014,5,62.08,generated_fallback,219,41,4,15,1,739415,0,2,0
+212,Riverdale stay 212,Host 38,Bronx,Riverdale,Entire home/apt,180.59,55,1.86,4,6,146,2025-01-30,31.59,TRUE,unknown,2015,7,59.89,generated_fallback,165,25,0,12,0,739281,1,3,0
+213,Great Kills stay 213,Host 36,Staten Island,Great Kills,Hotel room,134.48,70,2.18,4,4,143,2025-07-09,25.57,FALSE,flexible,2016,5,60.89,generated_fallback,91,23,4,6,1,739441,0,0,0
+214,Chelsea stay 214,Host 19,Manhattan,Chelsea,Entire home/apt,115.28,50,3.11,5,7,124,2025-12-10,23.84,TRUE,moderate,2017,3,65.97,generated_fallback,39,8,2,2,0,739595,1,1,0
+215,St. George stay 215,Host 11,Staten Island,St. George,Entire home/apt,197.85,32,2.57,5,5,144,2025-03-02,31.66,FALSE,strict,2018,3,60.6,generated_fallback,203,1,4,14,0,739312,0,2,0
+216,Mott Haven stay 216,Host 51,Bronx,Mott Haven,Private room,365.51,37,2.57,5,2,160,2025-11-29,59.83,TRUE,unknown,2019,2,56.05,generated_fallback,141,38,0,10,2,739584,1,3,0
+217,Flushing stay 217,Host 70,Queens,Flushing,Entire home/apt,153.79,46,2.47,3,2,134,2025-07-09,27.31,FALSE,flexible,2020,4,63.28,generated_fallback,54,57,3,4,0,739441,0,0,0
+218,Flushing stay 218,Host 80,Queens,Flushing,Entire home/apt,103.63,54,3.73,4,2,130,2025-06-01,20.63,TRUE,moderate,2021,7,64.31,generated_fallback,55,66,3,4,0,739403,1,1,0
+219,Bushwick stay 219,Host 93,Brooklyn,Bushwick,Entire home/apt,154.72,65,3.34,4,3,121,2026-01-06,30.16,FALSE,strict,2022,4,66.91,generated_fallback,24,78,1,1,0,739622,0,2,0
+220,Riverdale stay 220,Host 72,Bronx,Riverdale,Entire home/apt,137.66,68,3.33,5,7,137,2025-01-31,22.03,TRUE,unknown,2003,3,62.55,generated_fallback,167,59,0,12,0,739282,1,3,0
+221,St. George stay 221,Host 10,Staten Island,St. George,Shared room,206.4,42,0.6,3,6,157,2025-02-04,34.37,FALSE,flexible,2004,5,57.1,generated_fallback,204,0,4,14,3,739286,0,0,0
+222,Williamsburg stay 222,Host 88,Brooklyn,Williamsburg,Entire home/apt,61.99,78,3.78,3,2,112,2025-01-04,12.62,TRUE,moderate,2005,6,69.33,generated_fallback,234,73,1,16,0,739255,1,1,0
+223,Tottenville stay 223,Host 46,Staten Island,Tottenville,Entire home/apt,195.96,50,4.4,5,4,136,2025-08-09,35.4,FALSE,strict,2006,4,62.64,generated_fallback,220,33,4,15,0,739472,0,2,0
+224,Williamsburg stay 224,Host 42,Brooklyn,Williamsburg,Hotel room,197.49,62,2.75,4,2,118,2025-02-10,37.0,TRUE,unknown,2007,3,67.76,generated_fallback,235,29,1,16,1,739292,1,3,0
+225,Flushing stay 225,Host 20,Queens,Flushing,Entire home/apt,206.41,49,1.16,3,1,126,2025-02-17,33.03,FALSE,flexible,2008,2,65.4,generated_fallback,56,9,3,4,0,739299,0,0,0
+226,Riverdale stay 226,Host 20,Bronx,Riverdale,Entire home/apt,248.44,36,1.23,4,4,140,2025-10-17,41.1,TRUE,moderate,2009,3,61.72,generated_fallback,168,9,0,12,0,739541,1,1,0
+227,Midtown stay 227,Host 44,Manhattan,Midtown,Entire home/apt,223.29,46,2.81,4,4,126,2025-10-06,38.43,FALSE,strict,2010,3,65.61,generated_fallback,127,31,2,9,0,739530,0,2,0
+228,Tottenville stay 228,Host 85,Staten Island,Tottenville,Entire home/apt,211.04,36,3.66,4,6,138,2025-02-09,37.82,TRUE,unknown,2011,3,62.31,generated_fallback,221,71,4,15,0,739291,1,3,0
+229,Astoria stay 229,Host 79,Queens,Astoria,Private room,214.6,63,1.49,3,6,146,2025-12-19,39.74,FALSE,flexible,2012,7,60.05,generated_fallback,6,65,3,0,2,739604,0,0,0
+230,Harlem stay 230,Host 88,Manhattan,Harlem,Entire home/apt,157.58,63,3.46,4,3,125,2025-01-16,25.21,TRUE,moderate,2013,8,65.64,generated_fallback,101,73,2,7,0,739267,1,1,0
+231,Flushing stay 231,Host 97,Queens,Flushing,Private room,135.71,65,1.48,5,2,138,2025-06-01,23.06,FALSE,strict,2014,2,62.17,generated_fallback,57,82,3,4,2,739403,0,2,0
+232,Williamsburg stay 232,Host 59,Brooklyn,Williamsburg,Entire home/apt,189.78,48,2.19,3,4,122,2025-06-07,33.06,TRUE,unknown,2015,2,66.53,generated_fallback,236,46,1,16,0,739409,1,3,0
+233,Riverdale stay 233,Host 81,Bronx,Riverdale,Private room,161.23,64,1.34,3,3,154,2025-02-15,29.85,FALSE,flexible,2016,3,57.89,generated_fallback,169,67,0,12,2,739297,0,0,0
+234,Long Island City stay 234,Host 47,Queens,Long Island City,Entire home/apt,163.48,46,0.76,5,5,131,2025-10-14,31.56,TRUE,moderate,2017,2,64.01,generated_fallback,116,34,3,8,0,739538,1,1,0
+235,Bushwick stay 235,Host 28,Brooklyn,Bushwick,Private room,114.18,46,3.48,4,4,133,2025-06-03,18.27,FALSE,strict,2018,4,63.69,generated_fallback,25,17,1,1,2,739405,0,2,0
+236,Mott Haven stay 236,Host 88,Bronx,Mott Haven,Entire home/apt,211.64,50,2.58,4,4,149,2025-01-04,35.21,TRUE,unknown,2019,8,59.17,generated_fallback,142,73,0,10,0,739255,1,3,0
+237,Riverdale stay 237,Host 65,Bronx,Riverdale,Shared room,174.68,53,3.27,5,1,155,2025-03-11,30.65,FALSE,flexible,2020,2,57.53,generated_fallback,170,52,0,12,3,739321,0,0,0
+238,Flushing stay 238,Host 60,Queens,Flushing,Private room,138.78,36,3.3,5,3,139,2025-11-21,26.25,TRUE,moderate,2021,3,61.98,generated_fallback,58,47,3,4,2,739576,1,1,0
+239,Fordham stay 239,Host 56,Bronx,Fordham,Private room,226.86,41,3.47,5,5,157,2025-10-07,41.7,FALSE,strict,2022,6,56.88,generated_fallback,71,43,0,5,2,739531,0,2,0
+240,Williamsburg stay 240,Host 47,Brooklyn,Williamsburg,Hotel room,163.23,56,2.6,4,3,119,2025-12-11,26.12,TRUE,unknown,2003,2,67.45,generated_fallback,237,34,1,16,1,739596,1,3,0
